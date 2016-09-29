@@ -38,8 +38,19 @@ content should be long enough, but now too long.
 
 
 <br/>
-## 6. 
+## 6. book path - each stage with X book
+for example you want be good at certain subject, like math, 
+what's the first stage? there 5 book must read in first stage?
+how about second stage?
 
+
+<br/>
+## 7.
+
+
+
+<br/>
+## 8. 
 
 <br/>
 ## Link
