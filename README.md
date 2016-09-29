@@ -27,7 +27,15 @@ show competiror list, like coca-cola/pepso, apple/microsoft
 
 
 <br/>
-## 4. 
+## 4. Exchange premium account with other  
+like exchange Treehouse account with a Lynda account.  
+exchange username and password, this basically is all about trust.  
+
+<br/>
+## 5. 
+
+<br/>
+## 6. 
 
 
 <br/>
