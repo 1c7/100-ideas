@@ -21,3 +21,9 @@ Every month it would send a email to you, you have to reply it within a week,
 if you don't, it would assume you dead, and send pre-written Email to pre-setting Email Account
 
 
+
+
+
+## Some link
+[Medium: 
+83 Free Business/Project Ideas for Developers or Anyone Who Wants to Make Stuff.](https://medium.com/@lifestyleninja/83-free-business-project-ideas-for-developers-or-anyone-who-wants-to-make-stuff-89378a52ca70#.ewwxw1ejw)
