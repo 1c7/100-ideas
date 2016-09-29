@@ -32,7 +32,10 @@ like exchange Treehouse account with a Lynda account.
 exchange username and password, this basically is all about trust.  
 
 <br/>
-## 5. 
+## 5. longer summary - summary book
+Summarize a book, summary each chapter and key point, summary each chapter with one sentence.
+content should be long enough, but now too long.  
+
 
 <br/>
 ## 6. 
