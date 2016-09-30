@@ -56,3 +56,17 @@ how about second stage?
 ## Link
 [Medium: 
 83 Free Business/Project Ideas for Developers or Anyone Who Wants to Make Stuff.](https://medium.com/@lifestyleninja/83-free-business-project-ideas-for-developers-or-anyone-who-wants-to-make-stuff-89378a52ca70#.ewwxw1ejw)
+
+
+6.My town -  我的小镇 - 其实就是导游啦  
+Local guide for everything in your town.  
+
+16.Sumpodio - 音频总结 podcast  
+Audio summaries of podcasts  
+
+18.Sumpod - 文字总结 podcast  
+Written summaries of podcasts  
+
+31.Outerviews - 采访那些长期旅行的人  
+Collection of interviews with all kinds of long term travellers.  
+
